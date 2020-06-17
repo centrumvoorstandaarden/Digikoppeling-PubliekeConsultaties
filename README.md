@@ -1,4 +1,5 @@
 # Huidige Consultaties
 
-# MTOM[
+# MTOM
+
 [mtom](mtom.md)
