@@ -2,10 +2,10 @@
 
 Gewone tekst zonder versieringen
 
-een tekst met een *cursief* een een **vet of bold** deel
+een tekst met een *cursief* en een **vet** deel
 
-hieronder een klein
-![plaatje](plaatje.png)
+hieronder een klein plaatje
+![plaatje](media/standaarden.png)
 
 ## een paragraaf
 
@@ -29,6 +29,4 @@ en een genummerd lijstje
 
 <https://docs.centrumvoorstandaarden.nl>
 
-[cvs](https://docs.centrumvoorstandaarden.nl)
-
-
+[CvS](https://docs.centrumvoorstandaarden.nl)
