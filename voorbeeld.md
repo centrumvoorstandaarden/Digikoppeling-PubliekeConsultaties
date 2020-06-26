@@ -9,21 +9,24 @@ hieronder een klein
 
 ## een paragraaf
 
-met een 
+met een
 
 ### subparagraaf
 
 een lijstje
+
 - een 
 - twee
 - drie
 
-en een genummed lijstje
-1. een 
+en een genummerd lijstje
+
+1. een
 1. twee
 1. drie
 
-een een link naar een website
-(https://docs.centrumvoorstandaarden.nl)
+2 manieren om een link naar een website te maken
+<https://docs.centrumvoorstandaarden.nl>
+[cvs](https://docs.centrumvoorstandaarden.nl)
 
 
