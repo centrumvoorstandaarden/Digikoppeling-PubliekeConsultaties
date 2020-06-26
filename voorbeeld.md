@@ -4,7 +4,7 @@ Gewone tekst zonder versieringen
 
 een tekst met een *cursief* en een **vet** deel
 
-hieronder een klein plaatje
+en een klein plaatje
 ![plaatje](media/standaarden.png)
 
 ## een paragraaf
