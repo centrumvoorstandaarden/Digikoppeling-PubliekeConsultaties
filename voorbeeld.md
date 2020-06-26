@@ -26,7 +26,9 @@ en een genummerd lijstje
 1. drie
 
 2 manieren om een link naar een website te maken
+
 <https://docs.centrumvoorstandaarden.nl>
+
 [cvs](https://docs.centrumvoorstandaarden.nl)
 
 
