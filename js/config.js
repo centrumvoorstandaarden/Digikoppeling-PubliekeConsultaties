@@ -7,7 +7,7 @@ var respecConfig = {
   // TODO: Geef bij emailComments een ander emailadres op als dat gewenst is.
   // TODO: emailComments: '...',
   // TODO: Voor pubDomain mogelijkheden zie https://github.com/Geonovum/respec/wiki/pubDomain
-  // TODO: pubDomain: "...",
+  pubDomain: "Digikoppeling",
   splitMDsections: true,
  
   // Vul in om een korte extra uitleg te weergeven op de docs.centrumvoorstandaarden.nl website.
@@ -17,7 +17,7 @@ var respecConfig = {
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
   // https://docs.centrumvoorstandaarden.nl/{pubDomain}/{shortName}
-  publishDate: "2017-12-22",
+  publishDate: "2020-06-26",
   // Als er een eerder gepubliceerde versie is, geef dan de datum daarvan op
   previousPublishDate: "2017-05-31",
   // Zie https://github.com/w3c/respec/wiki/previousMaturity. Dit moet een
