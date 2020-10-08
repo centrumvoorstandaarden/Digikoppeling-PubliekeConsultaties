@@ -21,4 +21,15 @@ get the latest tagged commit
 git checkout $temp
 ```
 
+Dus als script gecombineerd wordt uitgevoerd
+```
+$temp2 = git rev-list --tags --max-count=1
+$temp = git describe --tags $temp2
+git checkout $temp
+```
+
+dan wordt de laatste tagged version opgehaald (en dus niet de laatste commit)
+
+
+
 source: <https://devconnected.com/how-to-checkout-git-tags/>
