@@ -29,7 +29,7 @@ var respecConfig = {
   doJsonLd: true,
   editors: [
     {
-      name: "Pieter Hering",
+      name: "TEST USER",
       company: "Logius",
       companyURL: "http://www.logius.nl/",
     },
