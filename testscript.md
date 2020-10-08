@@ -1,3 +1,11 @@
+git-tag - Create, list, delete or verify a tag object signed with GPG
+
+get the latest tags from repository
+
+```
+git fetch --tags
+```
+
 git-rev-list - Lists commit objects in reverse chronological order
 
 get the latest commit
@@ -23,6 +31,7 @@ git checkout $temp
 
 Dus als script gecombineerd wordt uitgevoerd
 ```
+git fetch --tags
 $temp2 = git rev-list --tags --max-count=1
 $temp = git describe --tags $temp2
 git checkout $temp
