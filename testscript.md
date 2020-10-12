@@ -14,7 +14,7 @@ doel: op logius.nl wordt de meest recente *gereleasede* versie van een standaard
   - de url van de repository wordt eenmalig geconfigureerd (op verzoek van cvs)
 - (anticase) als logius.nl een standaard *pull* commando zou gebruiken dan zou de meest recente (werk)versie opgehaald worden, dat is zeker niet wenselijk
 - voorwaarde: logus.nl moet dus de laatst *releasede* versie ophalen
-- met`create release` kan in Github een branch worden **getagd** 
+- met `create release` kan in Github een branch worden **getagd** 
 - met onderstaand script kan de laatste **getagde** versie van een branch worden opgehaald
 - (uitzoeken) zijn er andere manieren om een branch te taggen? in dat geval werkt dit git script niet goed
 - (uitzoeken) is gegarandeerd dat altijd de laatste versie wordt opgehaald?
