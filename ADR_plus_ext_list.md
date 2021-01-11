@@ -61,3 +61,5 @@ Extensions
 |API-49: Use public API-keys|no||
 |API-50: Use CORS to control access|no||
 |API-52: Use OAuth 2.0 for authorization with rights delegation|no||
+
+lalala
