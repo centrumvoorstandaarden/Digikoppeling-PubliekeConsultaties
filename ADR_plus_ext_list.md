@@ -63,3 +63,4 @@ Extensions
 |API-52: Use OAuth 2.0 for authorization with rights delegation|no||
 
 lalala
+lololo
